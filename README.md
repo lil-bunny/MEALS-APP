@@ -1,4 +1,6 @@
-# intern1
+An App to satisfy your cravings :)
+
+# intern2
 
 A new Flutter project.
 
